@@ -1,0 +1,145 @@
+
+
+Criando tabela para 'AAAAA(5)' usando 3-mer
+    compilando tabela
+    possiveis ate 3 3-mer diferentes em 'AAAAA'
+
+
+***** pesquisa *****
+
+cadeia [AAAAA](5), 3-mer
+
+   1........ AAA ....    3
+
+3-mer mais frequentes do grupo de 1:
+
+    AAA ....    3
+
+***** fim *****
+
+
+Criando tabela para 'ABCDABCDABCD(12)' usando 3-mer
+    compilando tabela
+    possiveis ate 10 3-mer diferentes em 'ABCDABCDABCD'
+
+
+***** pesquisa *****
+
+cadeia [ABCDABCDABCD](12), 3-mer
+
+   1........ DAB ....    2
+   2........ CDA ....    2
+   3........ BCD ....    3
+   4........ ABC ....    3
+
+3-mer mais frequentes do grupo de 4:
+
+    BCD ....    3
+    ABC ....    3
+
+***** fim *****
+
+
+Criando tabela para 'ACAACTATGCATCACTATCGGGAACTATCCT(31)' usando 5-mer
+    compilando tabela
+    possiveis ate 27 5-mer diferentes em 'ACAACTATGCATCACTATCGGGAACTATCCT'
+
+
+***** pesquisa *****
+
+cadeia [ACAACTATGCATCACTATCGGGAACTATCCT](31), 5-mer
+
+   1........ ATCCT ....    1
+   2........ TATCC ....    1
+   3........ GAACT ....    1
+   4........ GGAAC ....    1
+   5........ GGGAA ....    1
+   6........ CGGGA ....    1
+   7........ TCGGG ....    1
+   8........ ATCGG ....    1
+   9........ TATCG ....    1
+  10........ CTATC ....    2
+  11........ CACTA ....    1
+  12........ TCACT ....    1
+  13........ ATCAC ....    1
+  14........ CATCA ....    1
+  15........ GCATC ....    1
+  16........ TGCAT ....    1
+  17........ ATGCA ....    1
+  18........ TATGC ....    1
+  19........ CTATG ....    1
+  20........ ACTAT ....    3
+  21........ AACTA ....    2
+  22........ CAACT ....    1
+  23........ ACAAC ....    1
+
+5-mer mais frequentes do grupo de 23:
+
+    ACTAT ....    3
+
+***** fim *****
+
+
+Criando tabela para 'CGATATATCCATAG(14)' usando 3-mer
+    compilando tabela
+    possiveis ate 12 3-mer diferentes em 'CGATATATCCATAG'
+
+
+***** pesquisa *****
+
+cadeia [CGATATATCCATAG](14), 3-mer
+
+   1........ TAG ....    1
+   2........ CAT ....    1
+   3........ CCA ....    1
+   4........ TCC ....    1
+   5........ ATC ....    1
+   6........ TAT ....    2
+   7........ ATA ....    3
+   8........ GAT ....    1
+   9........ CGA ....    1
+
+3-mer mais frequentes do grupo de 9:
+
+    ATA ....    3
+
+***** fim *****
+
+
+Criando tabela para 'ACGTTGCATGTCGCATGATGCATGAGAGCT(30)' usando 4-mer
+    compilando tabela
+    possiveis ate 27 4-mer diferentes em 'ACGTTGCATGTCGCATGATGCATGAGAGCT'
+
+
+***** pesquisa *****
+
+cadeia [ACGTTGCATGTCGCATGATGCATGAGAGCT](30), 4-mer
+
+   1........ AGCT ....    1
+   2........ GAGC ....    1
+   3........ AGAG ....    1
+   4........ GAGA ....    1
+   5........ TGAG ....    1
+   6........ ATGC ....    1
+   7........ GATG ....    1
+   8........ TGAT ....    1
+   9........ ATGA ....    2
+  10........ CGCA ....    1
+  11........ TCGC ....    1
+  12........ GTCG ....    1
+  13........ TGTC ....    1
+  14........ ATGT ....    1
+  15........ CATG ....    3
+  16........ GCAT ....    3
+  17........ TGCA ....    2
+  18........ TTGC ....    1
+  19........ GTTG ....    1
+  20........ CGTT ....    1
+  21........ ACGT ....    1
+
+4-mer mais frequentes do grupo de 21:
+
+    CATG ....    3
+    GCAT ....    3
+
+***** fim *****

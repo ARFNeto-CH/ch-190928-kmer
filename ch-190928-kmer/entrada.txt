@@ -1,0 +1,29 @@
+Um k-mer é uma cadeia de caracters de tamanho k.
+
+Definimos a função count(T, P) como o número de vezes que o k-mer P ocorre como uma subcadeia do texto T. Por exemplo:
+
+ 
+
+count(ACAACTATGCATACTATCGGGAACTATCCT, ACTAT) = 3
+
+Dizemos que um padrão P é o k-mer mais frequente em um texto T se count(T, P) é máximo entre todos os k-mer de T. 
+
+Por exemplo: "ACTAT é o 5-mer mais frequente de "ACAACTATGCATCACTATCGGGAACTATCCT", e "ATA" é o 3-mer mais frequente de "CGATATATCCATAG".
+
+Problema das palavras frequentes
+
+Encontre os k-mers mais frequentes de uma cadeia.
+
+Entrada
+
+Uma cadeia T e um inteiro k (tamanho da cadeia é no máximo 1024 caracteres).
+
+Saída
+
+Todos os k-mers mais frequentes (na ordem em que ocorrem em T, separados por um espaço em branco).
+
+Exemplo
+
+Entrada: ACGTTGCATGTCGCATGATGCATGAGAGCT 4 Saída: GCAT CATG
+
+https://www.clubedohardware.com.br/forums/topic/1399696-como-fazer-esse-programa-em-c/?tab=comments#comment-7584276
