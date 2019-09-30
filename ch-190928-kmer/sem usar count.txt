@@ -1,5 +1,3 @@
-
-
 Criando tabela para 'AAAAA(5)' usando 3-mer
     compilando tabela
     possiveis ate 3 3-mer diferentes em 'AAAAA'

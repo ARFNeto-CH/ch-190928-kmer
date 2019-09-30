@@ -1,3 +1,4 @@
+
 Um k-mer é uma cadeia de caracters de tamanho k.
 
 Definimos a função count(T, P) como o número de vezes que o k-mer P ocorre como uma subcadeia do texto T. Por exemplo:

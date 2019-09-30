@@ -38,3 +38,4 @@ int			testa_count(char*, int);
 void		testa_com_count();
 void		testa_sem_count();
 
+// fim de kmer.h
